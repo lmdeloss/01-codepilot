@@ -2,3 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+give the header a background color of light blue and center the text.
+header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 20px;
+} 
